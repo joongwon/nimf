@@ -18,7 +18,7 @@ provides=('nimf-git')
 conflicts=('nimf-git')         
 optdepends=('brise: Rime schema repository'
             'noto-fonts-cjk: Google Noto CJK fonts')
-source=("git+https://github.com/hamonikr/nimf.git#tag=v1.3.8")
+source=("git+https://github.com/joongwon/nimf.git#branch=pkg")
 md5sums=('SKIP')
 
 build() {
